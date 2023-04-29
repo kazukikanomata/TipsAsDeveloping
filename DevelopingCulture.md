@@ -224,3 +224,6 @@ const sayHello = (name = "ゲスト") => {
 sayHello();
 
 ```
+
+### モジュールimportの整理
+https://jsprimer.net/basic/module/
